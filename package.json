@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/MTeju/Nike-Landing",
+  "homepage": "https://mteju.github.io/Nike-Landing/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
